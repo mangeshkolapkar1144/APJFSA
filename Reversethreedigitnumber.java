@@ -1,6 +1,6 @@
 package Javaprogram;
 import java.util.Scanner;
-public class ReverseThreeDigitNumber {
+public class Reversethreedigitnumber{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a three-digit number: ");
